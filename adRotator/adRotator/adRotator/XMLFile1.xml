@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+	<Ad>
+		<ImageUrl>Images/apple.jpg</ImageUrl>
+		<height>400</height>
+		<width>400</width>
+
+		<AlternetText></AlternetText>
+		<NavigateUrl>https://pixabay.com/images/search/apple/</NavigateUrl>
+		<Keywords>apple</Keywords>
+		
+	</Ad>
+
+	<Ad>
+		<ImageUrl>Images/apple2.jpeg</ImageUrl>
+		<height>400</height>
+		<width>400</width>
+
+		<AlternetText></AlternetText>
+		<NavigateUrl>https://pixabay.com/images/search/apple/</NavigateUrl>
+		<Keywords>apple</Keywords>
+	</Ad>
+
+	<Ad>
+		<ImageUrl>Images/apple3.jpeg</ImageUrl>
+		<height>400</height>
+		<width>400</width>
+
+		<AlternetText></AlternetText>
+		<NavigateUrl>https://pixabay.com/images/search/apple/</NavigateUrl>
+		<Keywords>apple</Keywords>
+	</Ad>
+
+	<Ad>
+		<ImageUrl>Images/apple4.jpeg</ImageUrl>
+		<height>400</height>
+		<AlternetText></AlternetText>
+		<width>400</width>
+		<NavigateUrl>https://pixabay.com/images/search/apple/</NavigateUrl>
+		<Keywords>apple</Keywords>
+	</Ad>
+
+
+	<Ad>
+		<ImageUrl>Images/apple5.jpg</ImageUrl>
+		<height>400</height>
+		<width>400</width>
+
+		<AlternetText></AlternetText>
+		<NavigateUrl>https://pixabay.com/images/search/apple/</NavigateUrl>
+		<Keywords>apple</Keywords>
+	</Ad>
+</Advertisements>

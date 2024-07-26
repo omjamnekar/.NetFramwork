@@ -1,0 +1,7 @@
+D:\TYB\abstract\bin\Debug\@abstract.exe.config
+D:\TYB\abstract\bin\Debug\@abstract.exe
+D:\TYB\abstract\bin\Debug\@abstract.pdb
+D:\TYB\abstract\obj\Debug\abstract.csproj.AssemblyReference.cache
+D:\TYB\abstract\obj\Debug\abstract.csproj.CoreCompileInputs.cache
+D:\TYB\abstract\obj\Debug\@abstract.exe
+D:\TYB\abstract\obj\Debug\@abstract.pdb

@@ -1,0 +1,7 @@
+D:\TYB\fabonacci\bin\Debug\fabonacci.exe.config
+D:\TYB\fabonacci\bin\Debug\fabonacci.exe
+D:\TYB\fabonacci\bin\Debug\fabonacci.pdb
+D:\TYB\fabonacci\obj\Debug\fabonacci.csproj.AssemblyReference.cache
+D:\TYB\fabonacci\obj\Debug\fabonacci.csproj.CoreCompileInputs.cache
+D:\TYB\fabonacci\obj\Debug\fabonacci.exe
+D:\TYB\fabonacci\obj\Debug\fabonacci.pdb

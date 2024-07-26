@@ -1,0 +1,7 @@
+D:\TYB\stringFunction\bin\Debug\stringFunction.exe.config
+D:\TYB\stringFunction\bin\Debug\stringFunction.exe
+D:\TYB\stringFunction\bin\Debug\stringFunction.pdb
+D:\TYB\stringFunction\obj\Debug\stringFunction.csproj.AssemblyReference.cache
+D:\TYB\stringFunction\obj\Debug\stringFunction.csproj.CoreCompileInputs.cache
+D:\TYB\stringFunction\obj\Debug\stringFunction.exe
+D:\TYB\stringFunction\obj\Debug\stringFunction.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DropDownLIst", "DropDownLIst.csproj", "{2563370F-7C99-405A-B9F3-0CFAA5A8E1CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2563370F-7C99-405A-B9F3-0CFAA5A8E1CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2563370F-7C99-405A-B9F3-0CFAA5A8E1CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2563370F-7C99-405A-B9F3-0CFAA5A8E1CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2563370F-7C99-405A-B9F3-0CFAA5A8E1CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76288440-D145-43CE-881C-3894E983F6B1}
+	EndGlobalSection
+EndGlobal

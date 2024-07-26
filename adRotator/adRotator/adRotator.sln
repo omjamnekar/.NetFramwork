@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "adRotator", "adRotator\adRotator.csproj", "{32352F8B-F305-46B2-A15A-AE186FCD71E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32352F8B-F305-46B2-A15A-AE186FCD71E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32352F8B-F305-46B2-A15A-AE186FCD71E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32352F8B-F305-46B2-A15A-AE186FCD71E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32352F8B-F305-46B2-A15A-AE186FCD71E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF07B16A-1F77-4E95-AE38-BCA8A91868B0}
+	EndGlobalSection
+EndGlobal

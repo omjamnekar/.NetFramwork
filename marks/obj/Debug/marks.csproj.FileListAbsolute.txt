@@ -1,0 +1,7 @@
+D:\TYB\marks\bin\Debug\marks.exe.config
+D:\TYB\marks\bin\Debug\marks.exe
+D:\TYB\marks\bin\Debug\marks.pdb
+D:\TYB\marks\obj\Debug\marks.csproj.AssemblyReference.cache
+D:\TYB\marks\obj\Debug\marks.csproj.CoreCompileInputs.cache
+D:\TYB\marks\obj\Debug\marks.exe
+D:\TYB\marks\obj\Debug\marks.pdb

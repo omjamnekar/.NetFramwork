@@ -1,0 +1,7 @@
+D:\TYB\forEach\bin\Debug\forEach.exe.config
+D:\TYB\forEach\bin\Debug\forEach.exe
+D:\TYB\forEach\bin\Debug\forEach.pdb
+D:\TYB\forEach\obj\Debug\forEach.csproj.AssemblyReference.cache
+D:\TYB\forEach\obj\Debug\forEach.csproj.CoreCompileInputs.cache
+D:\TYB\forEach\obj\Debug\forEach.exe
+D:\TYB\forEach\obj\Debug\forEach.pdb

@@ -1,0 +1,7 @@
+D:\TYB\jagged\bin\Debug\jagged.exe.config
+D:\TYB\jagged\bin\Debug\jagged.exe
+D:\TYB\jagged\bin\Debug\jagged.pdb
+D:\TYB\jagged\obj\Debug\jagged.csproj.AssemblyReference.cache
+D:\TYB\jagged\obj\Debug\jagged.csproj.CoreCompileInputs.cache
+D:\TYB\jagged\obj\Debug\jagged.exe
+D:\TYB\jagged\obj\Debug\jagged.pdb

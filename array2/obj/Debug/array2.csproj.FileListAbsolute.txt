@@ -1,0 +1,7 @@
+D:\TYB\array2\bin\Debug\array2.exe.config
+D:\TYB\array2\bin\Debug\array2.exe
+D:\TYB\array2\bin\Debug\array2.pdb
+D:\TYB\array2\obj\Debug\array2.csproj.AssemblyReference.cache
+D:\TYB\array2\obj\Debug\array2.csproj.CoreCompileInputs.cache
+D:\TYB\array2\obj\Debug\array2.exe
+D:\TYB\array2\obj\Debug\array2.pdb

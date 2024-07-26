@@ -1,0 +1,7 @@
+D:\TYB\palindrom\bin\Debug\palindrom.exe.config
+D:\TYB\palindrom\bin\Debug\palindrom.exe
+D:\TYB\palindrom\bin\Debug\palindrom.pdb
+D:\TYB\palindrom\obj\Debug\palindrom.csproj.AssemblyReference.cache
+D:\TYB\palindrom\obj\Debug\palindrom.csproj.CoreCompileInputs.cache
+D:\TYB\palindrom\obj\Debug\palindrom.exe
+D:\TYB\palindrom\obj\Debug\palindrom.pdb

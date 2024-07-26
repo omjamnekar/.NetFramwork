@@ -1,0 +1,7 @@
+D:\TYB\gotoStatement\bin\Debug\gotoStatement.exe.config
+D:\TYB\gotoStatement\bin\Debug\gotoStatement.exe
+D:\TYB\gotoStatement\bin\Debug\gotoStatement.pdb
+D:\TYB\gotoStatement\obj\Debug\gotoStatement.csproj.AssemblyReference.cache
+D:\TYB\gotoStatement\obj\Debug\gotoStatement.csproj.CoreCompileInputs.cache
+D:\TYB\gotoStatement\obj\Debug\gotoStatement.exe
+D:\TYB\gotoStatement\obj\Debug\gotoStatement.pdb

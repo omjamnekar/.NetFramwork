@@ -1,0 +1,7 @@
+D:\TYB\oopsConcept\bin\Debug\oopsConcept.exe.config
+D:\TYB\oopsConcept\bin\Debug\oopsConcept.exe
+D:\TYB\oopsConcept\bin\Debug\oopsConcept.pdb
+D:\TYB\oopsConcept\obj\Debug\oopsConcept.csproj.AssemblyReference.cache
+D:\TYB\oopsConcept\obj\Debug\oopsConcept.csproj.CoreCompileInputs.cache
+D:\TYB\oopsConcept\obj\Debug\oopsConcept.exe
+D:\TYB\oopsConcept\obj\Debug\oopsConcept.pdb
